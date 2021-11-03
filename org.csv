@@ -1,5 +1,5 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Lukman Hadiwijaya,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,Corporate,http://example.com/employee/profile,,,FALSE,,O-1001,,
+Lukman Hadiwijaya,https://drive.google.com/file/d/1cBjlOQ31DAe0H5XBmPArTdBotQUZy1bt/view?usp=sharing,Corporate,http://example.com/employee/profile,,,FALSE,,O-1001,,
 Pauline,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,,,FALSE,,O-1002,O-1001,
 Lidya Candra,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,,,FALSE,,O-1003,O-1002,
 Ben Hardi,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,,,FALSE,,O-1004,O-1003,
