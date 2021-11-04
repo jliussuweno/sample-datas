@@ -1,5 +1,5 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Lukman Hadiwijaya,,Corporate,http://example.com/employee/profile,,,FALSE,,O-1001,,
+Lukman Hadiwijaya,https://raw.githubusercontent.com/jliussuweno/sample-datas/32940a6f8cae867d6ac61151f40c022ec2234331/MicrosoftTeams-image%20(29).png,Corporate,http://example.com/employee/profile,,,FALSE,,O-1001,,
 Pauline,https://raw.githubusercontent.com/jliussuweno/sample-datas/d1bb708b4457e22f4f0d0e469cabfd34fb33566b/bulbasaur/PLN.jpeg,Corporate,http://example.com/employee/profile,,,FALSE,,O-1002,O-1001,
 Lidya Candra,https://raw.githubusercontent.com/jliussuweno/sample-datas/0baea313814cb29f3fc018febb701d0309846929/snorlax/lidya_candra.jpeg,Corporate,http://example.com/employee/profile,,,FALSE,,O-1003,O-1002,
 Ben Hardi,https://raw.githubusercontent.com/jliussuweno/sample-datas/6590abcdd37cfdfbfce10eea5d52ef589a8ba717/squirtle/ben_hardi.PNG,Corporate,http://example.com/employee/profile,,,FALSE,,O-1004,O-1003,
